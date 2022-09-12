@@ -6,6 +6,7 @@ zeynepgurler1998@gmail.com for inquiries. Thanks.
  
 > **Federated Brain Graph Evolution Prediction using Decentralized Connectivity Datasets with Temporally-varying Acquisitions**
 > [Zeynep Gürler](https://github.com/zeynepgurler)<sup>1</sup>, [Islem Rekik](https://basira-lab.com/)<sup>1</sup>
+> 
 > <sup>1</sup>BASIRA Lab, Faculty of Computer and Informatics, Istanbul Technical University, Istanbul, Turkey
 > <sup>2</sup>National School for Computer Science (ENSI), Mannouba, Tunisia
 >
