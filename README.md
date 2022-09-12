@@ -1,4 +1,4 @@
-#4D-FED-GNN+
+# 4D-FED-GNN+
 4D-FED-GNN+, a federated brain graph evolution trajectory prediction framework that 
 learns from brain connectivity data with missing timepoints, coded up in Python
 by Zeynep Gürler. Please contact 
