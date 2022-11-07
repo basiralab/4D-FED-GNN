@@ -72,6 +72,16 @@ demo.py generates the following outputs:
 
 Network Normalization for Integrating Multi-view Networks (netNorm): Dhifallah, S., Rekik, I., 2020, Estimation of connectional brain templates using selective multi-view network normalization
 
+## YouTube videos to install and run the code and understand how 4D-FED-GNN+ works
+
+To install and run 4D-FED-GNN+, check the following YouTube video: 
+
+https://bit.ly/3t74vga
+
+To learn about how 4D-FED-GNN+ works, check the following YouTube video: 
+
+https://bit.ly/3WHGGJp
+
 
 # Please Cite the Following paper when using gGAN:
 ```
