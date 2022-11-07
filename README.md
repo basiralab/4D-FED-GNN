@@ -74,17 +74,16 @@ Network Normalization for Integrating Multi-view Networks (netNorm): Dhifallah, 
 
 
 # Please Cite the Following paper when using gGAN:
-
-@article{gurler2020, title={ Foreseeing Brain Graph Evolution Over Time
-Using Deep Adversarial Network Normalizer}, <br/>
-author={Gurler Zeynep, Nebli Ahmed, Rekik Islem}, <br/>
-journal={Predictive Intelligence in Medicine International Society and Conference Series on Medical Image Computing and Computer-Assisted Intervention},
-volume={}, <br/>
-pages={}, <br/>
-year={2020}, <br/>
-publisher={Springer} <br/>
-}<br/>
-
+```
+@inproceedings{gurler2022federated,
+  title={Federated Time-Dependent GNN Learning from Brain Connectivity Data with Missing Timepoints},
+  author={G{\"u}rler, Zeynep and Rekik, Islem},
+  booktitle={International Workshop on PRedictive Intelligence In MEdicine},
+  pages={1--12},
+  year={2022},
+  organization={Springer}
+}
+```
 
 
 
