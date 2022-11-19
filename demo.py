@@ -233,6 +233,11 @@ def train(args, dataset, table):
             plot("MAE", "model" + str(t) + "MAELossTrainSet" + str(f) + "_exp" + str(args.exp), mae_list)
             plot("TP", "model" + str(t) + "tpLossTrainSet" + str(f) + "_exp" + str(args.exp), tp_list)
             print(" ")
+
+            mae_list.clear()
+            tot_list.clear()
+            tp_list.clear()
+
         test_data = dataset[folds[test[0]]]
         validate(args, hospitals, test_data, f)
         tic1 = timeit.default_timer()
